@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598569747 source:c:\users\administrador6\documents\comp\linguagem_c\linguagem c - coletanea de exercicios resolvidos\linguagemcluisdamas\prog0601\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
