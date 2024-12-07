@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730675193 source:c:\users\administrador6\documents\projects\c language\coletania\strings\ex013\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
